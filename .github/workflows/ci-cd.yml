@@ -20,4 +20,4 @@ jobs:
           port: 21
           protocol: ftp
           local-dir: ./
-          server-dir: ./www/mini-project
+          server-dir: ./www/mini-project/
